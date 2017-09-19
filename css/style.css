@@ -1,0 +1,22 @@
+#map,
+body,
+html {
+    height: 100%;
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body,
+html {
+    color: #000;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: navy;
+    padding: 10px;
+    text-align: center;
+}
